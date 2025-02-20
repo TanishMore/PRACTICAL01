@@ -8,3 +8,6 @@ for num in range(1,51):
     else:
         print(num)
        #This is fizz and buzz operation. 
+
+#Fizz and Buzz presented by Tanish.
+
