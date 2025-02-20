@@ -7,4 +7,4 @@ for num in range(1,51):
         print("Buzz")
     else:
         print(num)
-        
+       #This is fizz and buzz operation. 
